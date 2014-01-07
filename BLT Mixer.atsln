@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "BLT Mixer", "BLT Mixer\BLT Mixer.cproj", "{ADD3D352-7A01-4558-8F81-3C548DF34223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD3D352-7A01-4558-8F81-3C548DF34223}.Debug|ARM.ActiveCfg = Debug|ARM
+		{ADD3D352-7A01-4558-8F81-3C548DF34223}.Debug|ARM.Build.0 = Debug|ARM
+		{ADD3D352-7A01-4558-8F81-3C548DF34223}.Release|ARM.ActiveCfg = Release|ARM
+		{ADD3D352-7A01-4558-8F81-3C548DF34223}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
